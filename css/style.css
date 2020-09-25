@@ -1,0 +1,10 @@
+body{
+    color: white;
+    background-color: black;
+    align-items: center;
+}
+
+#weather-container{
+    color: black;
+    padding-top: 35px
+}
